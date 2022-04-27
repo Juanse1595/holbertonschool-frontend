@@ -13,7 +13,7 @@
 - How to detect 404 issues
 - How to move elements on a webpage
 
-0. Responsive device
+## 0. Responsive device
 
 Go to https://dev-tools.hbtn.info/
 
@@ -25,7 +25,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 0-responsive_device.png
 
-1. Change the background color
+## 1. Change the background color
 
 Go to https://dev-tools.hbtn.info/
 
@@ -37,7 +37,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 1-change_bg_color.png
  
-2. Force element state
+## 2. Force element state
 
 Go to https://dev-tools.hbtn.info/
 
@@ -49,7 +49,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 2-pathways_menu.png
  
-3. Copy all the styles of the button
+## 3. Copy all the styles of the button
 
 Go to https://dev-tools.hbtn.info/
 
@@ -67,7 +67,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 3-button_styles
   
-4. Change button styles
+## 4. Change button styles
 
 Go to https://dev-tools.hbtn.info/
 
@@ -80,7 +80,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 4-new_buttons.png
  
-5. Remove part of the website
+## 5. Remove part of the website
 
 Go to https://dev-tools.hbtn.info/
 
@@ -94,7 +94,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 5-deleted_elements.png
  
-6. Where is it coming from?
+## 6. Where is it coming from?
 
 Go to https://dev-tools.hbtn.info/
 
@@ -109,7 +109,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 6-declaration_file
   
-7. How many listeners
+## 7. How many listeners
 
 Go to https://dev-tools.hbtn.info/
 
@@ -121,7 +121,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 7-number_of_listeners
   
-8. What is the HSL code
+## 8. What is the HSL code
 
 Go to https://dev-tools.hbtn.info/
 
@@ -137,7 +137,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 8-hsl
   
-9. The max-width of the container
+## 9. The max-width of the container
 
 Go to https://dev-tools.hbtn.info/
 
@@ -151,7 +151,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 9-max_width
   
-10. Moving around
+## 10. Moving around
 
 Go to https://dev-tools.hbtn.info/
 
@@ -165,7 +165,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 10-moved_around.png
  
-11. Coverage
+## 11. Coverage
 
 Go to https://dev-tools.hbtn.info/
 
@@ -179,7 +179,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 11-coverage
   
-12. Emulate the print version of the webpage
+## 12. Emulate the print version of the webpage
 
 Go to https://dev-tools.hbtn.info/
 
@@ -191,7 +191,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 12-print_version.png
  
-13. Using the console
+## 13. Using the console
 
 Go to https://dev-tools.hbtn.info/
 
@@ -205,7 +205,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 13-logo_dollar0
   
-14. Write code in the console
+## 14. Write code in the console
 
 Go to https://dev-tools.hbtn.info/
 
@@ -217,7 +217,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 14-doc_title
   
-15. Holberton web framework
+## 15. Holberton web framework
 
 Go to https://dev-tools.hbtn.info/
 
@@ -235,7 +235,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 15-hbtn_framework
   
-16. Homepage weight
+## 16. Homepage weight
 
 Go to https://dev-tools.hbtn.info/
 
@@ -249,7 +249,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 16-weight.png
  
-17. Number of requests
+## 17. Number of requests
 
 Go to https://dev-tools.hbtn.info/
 
@@ -263,7 +263,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 17-requests.png
  
-18. Number of CSS files
+## 18. Number of CSS files
 
 Go to https://dev-tools.hbtn.info/
 
@@ -275,7 +275,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 18-css_loaded
   
-19. Number of images
+## 19. Number of images
 
 Go to https://dev-tools.hbtn.info/
 
@@ -287,7 +287,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 19-images_loaded
   
-20. Favicon image type
+## 20. Favicon image type
 
 Go to https://dev-tools.hbtn.info/
 
@@ -299,7 +299,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 20-favicon_type
   
-21. Font library
+## 21. Font library
 
 Go to https://dev-tools.hbtn.info/
 
@@ -311,7 +311,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 21-hbtn_font_lib
   
-22. XHR calls
+## 22. XHR calls
 
 Go to https://dev-tools.hbtn.info/
 
@@ -323,7 +323,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 22-xhr_calls
   
-23. Audits panel
+## 23. Audits panel
 
 Go to https://dev-tools.hbtn.info/
 
@@ -337,7 +337,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 23-performance_audit.png
  
-24. Static assets
+## 24. Static assets
 
 Go to https://dev-tools.hbtn.info/
 
@@ -351,7 +351,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 24-static_assets_audit.png
  
-25. Accessibility
+## 25. Accessibility
 
 Go to https://dev-tools.hbtn.info/
 
@@ -368,7 +368,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 25-contrast_issue
   
-26. No alt
+## 26. No alt
 
 Go to https://dev-tools.hbtn.info/
 
@@ -382,7 +382,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 26-no_alt
   
-27. Best practices
+## 27. Best practices
 
 Go to https://dev-tools.hbtn.info/
 
@@ -400,7 +400,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 27-missing_attr
   
-28. SEO
+## 28. SEO
 
 Go to https://dev-tools.hbtn.info/
 
@@ -414,7 +414,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 28-unclear_desc.png
  
-29. Sources
+## 29. Sources
 
 Go to https://dev-tools.hbtn.info/
 
@@ -430,7 +430,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 29-how_many_colors.png
  
-30. Block CSS files
+## 30. Block CSS files
 
 Go to https://dev-tools.hbtn.info/
 
@@ -444,7 +444,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 30-no_css.png
  
-31. Application panel
+## 31. Application panel
 
 Go to https://dev-tools.hbtn.info/
 
@@ -458,7 +458,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 31-session_storage_key
   
-32. Service workers
+## 32. Service workers
 
 Go to https://dev-tools.hbtn.info/
 
@@ -470,7 +470,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 32-service_workers
   
-33. Security
+## 33. Security
 
 Go to https://dev-tools.hbtn.info/
 
@@ -484,7 +484,7 @@ Repo:
 - Directory: 0x01-developer_tools
 - File: 33-ssl_cert
   
-34. Expiration date
+## 34. Expiration date
 
 Go to https://dev-tools.hbtn.info/
 
